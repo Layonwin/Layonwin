@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Atualmente estou aprendendo Front-end(HTML, CSS, JavaScript) e Análise de Dados (Excel, Power BI, MySql)</p>
+<p align="center">Atualmente estou aprendendo Front-end(HTML, CSS, JavaScript) e Análise de Dados (Excel, Power BI, MySql)</p>
 
 ###
 
@@ -23,9 +23,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+
+
 </div>
 
 ###
