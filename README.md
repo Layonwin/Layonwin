@@ -51,8 +51,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="https://www.linkedin.com/in/layonel-romenito-9101a0314" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/layonel-romenito-9101a0314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/layonel-romenito-9101a0314/" height="30" width="40" /></a>
+<a href="https://instagram.com/@layonel_avila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@layonel_avila" height="30" width="40" /></a>
+
 </div>
 
 ###
