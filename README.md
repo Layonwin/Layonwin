@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/layonel-romenito-9101a0314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Layonel" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/layonel-romenito-9101a0314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Layonel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/layonel_avila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@layonel_avila" height="30" width="40" /></a>
 
 </div>
